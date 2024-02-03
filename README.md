@@ -33,12 +33,9 @@ https://github.com/vivianakotoadjepong/TTDCapsNet.git
 
 Training TTDCapsNet on fashion-MNIST, and CIFAR-10 with default settings:
 ```
-python dcnet.py
+python T_MD_3LDCNet.py
 ```
-
-Training 3-level DCNet on CIFAR-10 with default settings:
-```
-python 3leveldcnet.py
+You can check the well commented code for more settings.
 ```
 For more settings, the code is well-commented and it should be easy to change the parameters looking at the comments. 
 
