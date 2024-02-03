@@ -49,7 +49,13 @@ We perform various ablation experiments to prove the efficacy of TTDCapsNet. the
 <p align="center">
 <img src="figures/fashion Mnist Traning and Validation Accuracy.png" width="350">
 </p>
-It can be seen that Level-3 and Merge-DigitCaps layer play a major role in the final performance. We also explore the relative effect of different levels of DigitCaps on the reconstruction outputs and experiment on the MNIST dataset by subtracting 0.2 from each digit one at a time in the 54D DigitCaps. It is observed (shown in the Figure below) that the effect on reconstructions decrease from the first level to the last level of capsules. This could be due to the fact that the first level DigitCaps activates very small area of an image and when perturbations are added to such smaller levels, it leads to an increased overall change in image (and vice versa). Also, it is observed that DigitCaps obtained from the concatenation of PrimaryCaps was most sensitive to this noise.
+The precision recall (first) and Reciever Operating Characteristics Curve (second) values for CIFAR-10 using the proposed model can also be observed below with good values, representing better performance and robustness of the model.
+
 <p align="center">
-<img src="figures/digitcaps_reconstructions.png" width="650">
+<img src="figures/cifar10 Precision_Recall plot.png" width="350">
 </p>
+
+<p align="center">
+<img src="figures/cifar10 ROC plot.png" width="350">
+</p>
+
