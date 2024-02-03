@@ -13,3 +13,7 @@ CapsNet models. The state-of-the-art performance on fashion-MNIST, CIFAR-10, Bre
 <p align="center">
 <img src="figures/dcnet.png" width="700">
 </p>
+
+ ## Usage
+Codes for training fashion-MNIST, CIFAR-10, Breast Cancer, and Brain Tumor Datasets is found in this repository.
+'1.14.0'
