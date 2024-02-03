@@ -59,3 +59,6 @@ The precision recall (first) and Reciever Operating Characteristics Curve (secon
 <img src="figures/cifar10 ROC plot.png" width="350">
 </p>
 
+## Contact Us
+Please contact us on vivianakotoadjepong@gmail.com
+
