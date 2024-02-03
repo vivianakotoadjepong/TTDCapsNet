@@ -37,6 +37,7 @@ https://github.com/vivianakotoadjepong/TTDCapsNet.git
 Training TTDCapsNet on fashion-MNIST, and CIFAR-10 with default settings:
 ```
 use; python T_MD_3LDCNet.py or
+
 run by creating a .ipynb jupyter notebook file and run using; %run T_MD_3LDCNet.py
 
 ```
