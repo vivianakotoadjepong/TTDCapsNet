@@ -26,13 +26,12 @@ pip install keras==2.1.2
 
 **Step 2. Clone the repository to local.**
 ```
-git clone https://github.com/ssrp/Multi-level-DCNet.git Multi-level-DCNet
-cd Multi-level-DCNet
+https://github.com/vivianakotoadjepong/TTDCapsNet.git
 ```
 
 **Step 3. Train the network.**  
 
-Training DCNet on MNIST with default settings:
+Training TTDCapsNet on fashion-MNIST, and CIFAR-10 with default settings:
 ```
 python dcnet.py
 ```
