@@ -1,4 +1,7 @@
 # TTDCapsNet
+
+[![DOI](https://zenodo.org/badge/751786438.svg)](https://zenodo.org/doi/10.5281/zenodo.10613575)
+
 ## Contents
 1. [Introduction](#introduction)
 2. [Usage](#usage)
