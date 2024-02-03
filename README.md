@@ -15,5 +15,12 @@ CapsNet models. The state-of-the-art performance on fashion-MNIST, CIFAR-10, Bre
 </p>
 
  ## Usage
-Codes for training fashion-MNIST, CIFAR-10, Breast Cancer, and Brain Tumor Datasets is found in this repository.
-'1.14.0'
+Codes for training fashion-MNIST, CIFAR-10, Breast Cancer, and Brain Tumor Datasets is found in this repository. follow the procedure below:
+
+**Step 1.
+Install [Keras==2.1.2](https://github.com/fchollet/keras)
+with [TensorFlow>=1.2](https://github.com/tensorflow/tensorflow) backend.**
+```
+pip install tensorflow-gpu
+pip install keras==2.1.2
+
