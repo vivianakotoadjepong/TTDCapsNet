@@ -11,7 +11,7 @@ improving the classification of complex and medical images. The Texton layer con
 Results from this study suggest that TTDCapsNet surpasses the baseline and demonstrates competitive performance when compared to state-of-the-art
 CapsNet models. The state-of-the-art performance on fashion-MNIST, CIFAR-10, Breast Cancer, and Brain Tumor datasets, showcasing 94.90%, 89.09%, 95.01%, and 97.71% validation accuracies respectively, serves as evidence of the efficacy of TTDCapsNet. Below is the architecture of TTDCapsNet:
 <p align="center">
-<img src="figures/dcnet.png" width="700">
+<img src="figures/proposed architecture.png" width="700">
 </p>
 
  ## Usage
