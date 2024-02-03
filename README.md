@@ -41,7 +41,7 @@ For more settings, the code is well-commented and it should be easy to change th
 
 ## Results
 
-We perform various ablation experiments to prove the efficacy of TTDCapsNet. the following figures depicts  accuracy curves TTDCapsNet and the baseline model on CIFAR-10(first) and fashion-MNIST (second):
+We performed different ablation experiments to prove the efficiency of TTDCapsNet. the following figures depicts  accuracy curves for TTDCapsNet and the baseline model on CIFAR-10(first) and fashion-MNIST (second):
 <p align="center">
 <img src="figures/Cifar 10 Traning and Validation Accuracy.png" width="350">
 </p>
